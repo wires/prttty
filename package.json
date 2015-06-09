@@ -1,5 +1,5 @@
 {
-  "name": "prttty-json",
+  "name": "prttty",
   "version": "0.9.1",
   "description": "Compact coloured TTY JSON renderer (chalk, ramda)",
   "main": "prttty.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wires/prttty-json"
+    "url": "https://github.com/wires/prttty"
   },
   "keywords": [
     "colour",
@@ -20,9 +20,9 @@
   "author": "Jelle Herold <jelle@defekt.nl>",
   "license": "AGPL",
   "bugs": {
-    "url": "https://github.com/wires/prttty-json/issues"
+    "url": "https://github.com/wires/prttty/issues"
   },
-  "homepage": "https://github.com/wires/prttty-json",
+  "homepage": "https://github.com/wires/prttty",
   "dependencies": {
     "chalk": "^1.0.0",
     "ramda": "^0.14.0"
