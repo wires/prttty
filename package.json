@@ -1,0 +1,26 @@
+{
+  "name": "prttty-json",
+  "version": "0.9.1",
+  "description": "Compact coloured TTY JSON renderer (chalk, ramda)",
+  "main": "prttty.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wires/prttty-json"
+  },
+  "keywords": [
+    "colour",
+    "terminal",
+    "pretty",
+    "json",
+    "render"
+  ],
+  "author": "Jelle Herold <jelle@defekt.nl>",
+  "license": "AGPL",
+  "bugs": {
+    "url": "https://github.com/wires/prttty-json/issues"
+  },
+  "homepage": "https://github.com/wires/prttty-json"
+}
